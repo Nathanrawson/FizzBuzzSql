@@ -1,0 +1,4 @@
+CREATE TABLE FizzBuzzResults (
+    Id INT PRIMARY KEY,
+    Result NVARCHAR(50) NOT NULL
+);
